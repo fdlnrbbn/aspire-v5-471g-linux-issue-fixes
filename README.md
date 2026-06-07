@@ -1,4 +1,4 @@
-# Linux Fixes for Acer Aspire V5-471G
+# Aspire V5-471G Linux Issue Fixes
 This repository contains explanation of problems I countered when using several Linux distros on Acer Aspire V5-471G, including Ubuntu, Linux Mint, LMDE, Zorin OS, Debian, antiX, MXLinux, elementary OS, Lubuntu, Xubuntu, and Q4OS. The problems still exist even on LTS kernel. The problems doesn't exist on Windows. This repository also contains explanation why these problems exist, how to fix it (workaround), and side effects of the fixes.
 
 ## Acer Aspire V5-471G Specification
